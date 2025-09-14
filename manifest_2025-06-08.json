@@ -1,0 +1,28 @@
+{
+  "case_id": "KABUKI-INV",
+  "period": "2025-06-08 (UTC+7)",
+  "timezone": "UTC+7 (Asia/Ho_Chi_Minh)",
+  "templates": [
+    "Hybrid Search v1.7-S2-Extended Flame + Apple Support",
+    "Unified ZIP v1.3-Extended Flame",
+    "Human Impact v1.2-Extended Flame",
+    "Close & Consolidated Code56 v1.1"
+  ],
+  "artifacts": {
+    "UNIFIED_REPORT": "/mnt/data/UNIFIED_REPORT",
+    "UNIFIED_ZIP_SHA256": "5d7e5909f111518742faa46f6b4c4421d07ccce3917d40bd1195d0fee24b737b"
+  },
+  "established_facts": [
+    "Bug type 298 dominates June 8 datasets.",
+    "Two SiriSearchFeedback logs on June 8 (10:26, 10:29 UTC+7) with field differences.",
+    "Cross-device proximity observed within ±60s to ±5m.",
+    "No MDM profile operations detected in June 8 datasets.",
+    "All outputs preserved with two-stage SHA-256 chain-of-custody."
+  ],
+  "limits": [
+    "No same-day cross-match for usageClientId/incident_id GUIDs.",
+    "MDM-based manipulation not evidenced in June 8 materials.",
+    "No decisive Flame (MS/Meta) hits in this batch."
+  ],
+  "generated_at": "2025-09-14 08:33:52 +0700"
+}

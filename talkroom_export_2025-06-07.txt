@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "talkroom": "KABUKI-INV — 2025-06-07 reanalysis",
+    "timezone": "UTC+7",
+    "exported_at": "2025-09-14T08:13:20+07:00",
+    "case_id": "KABUKI-INV",
+    "maintainer": "Tajima",
+    "reviewer": "GPT-5"
+  },
+  "kpis": {
+    "events_total": null,
+    "diff_events_added": 0,
+    "diff_events_removed": 0,
+    "same_second_clusters": 0,
+    "flame_events_count": 0,
+    "human_records": 0
+  }
+}

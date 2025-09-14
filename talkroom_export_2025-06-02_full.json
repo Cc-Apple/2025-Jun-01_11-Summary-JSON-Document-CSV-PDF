@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "case_id": "KABUKI-INV",
+    "room": "2025-06-02 dedicated analysis",
+    "timezone": "UTC+7"
+  },
+  "phase_summaries": {
+    "phase1": {
+      "facts": [
+        "MDM profile operations detected on iPad logs.",
+        "Abnormal SiriSearchFeedback bursts; CloudKit/nsurlsessiond activity.",
+        "bug_type 225/226 clusters detected.",
+        "Parallel MyViettel-App communication observed."
+      ]
+    },
+    "phase2": {
+      "facts": [
+        "Consolidated ZIP lacked readable logs; many outputs empty."
+      ],
+      "hypotheses": [
+        "Tampering/obfuscation likely removed traces in ZIP."
+      ]
+    },
+    "combined": {
+      "conclusion": "Pegasus → Kabuki evolution is dual: injection then concealment."
+    }
+  }
+}

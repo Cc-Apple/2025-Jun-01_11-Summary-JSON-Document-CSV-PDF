@@ -1,0 +1,6 @@
+June 8, 2025 — KABUKI-INV baseline facts (UTC+7)
+- bug_type 298 dominates.
+- Two SiriSearchFeedback logs with field differences at 10:26 and 10:29.
+- Cross-device proximity observed within ±60s–±5m.
+- No MDM profile operations found in June 8 datasets.
+- Chain-of-custody preserved (two-stage SHA-256; unified ZIP SHA-256 recorded).

@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "timestamp": "2025-09-13T07:00:00+07:00",
+    "content": "このroomは2025-06-04専用にする..."
+  },
+  {
+    "role": "assistant",
+    "timestamp": "2025-09-13T07:01:00+07:00",
+    "content": "受け取った、FUKABORI開始..."
+  },
+  {
+    "role": "user",
+    "timestamp": "2025-09-13T07:10:00+07:00",
+    "content": "zipを3つアップした..."
+  },
+  {
+    "role": "assistant",
+    "timestamp": "2025-09-13T07:11:00+07:00",
+    "content": "解析準備OK..."
+  }
+]

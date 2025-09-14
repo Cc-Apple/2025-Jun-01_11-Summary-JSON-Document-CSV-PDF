@@ -1,0 +1,31 @@
+{
+  "case_id": "KABUKI-INV",
+  "generated_at_utc7": "2025-09-14T08:20:34+0700",
+  "timezone": "UTC+7",
+  "talkroom_status": "active",
+  "devices_normalized": [
+    "iP11Pro",
+    "iP12mini-1",
+    "iP12mini-2",
+    "iPad",
+    "iP15P-Ghost",
+    "iP12-Ghost"
+  ],
+  "facts": {
+    "date_scope_utc7": "2025-06-09",
+    "baseband_disconnects_utc7": [
+      "2025-06-09T09:40:50+07:00",
+      "2025-06-09T22:28:33+07:00",
+      "2025-06-09T23:50:15+07:00"
+    ],
+    "support_contacts_utc7": [
+      "2025-06-09T13:42:00+07:00",
+      "2025-06-09T13:44:00+07:00"
+    ],
+    "same_second_or_minute_match": false
+  },
+  "hypotheses": [
+    "Targeted interference linked to VN-Telco (hypothesis only; not proven)."
+  ],
+  "artifacts_found": []
+}

@@ -1,0 +1,51 @@
+{
+  "case_id": "KABUKI-INV",
+  "date": "2025-06-06",
+  "phase": "S2",
+  "devices": [
+    "iPhone 11 Pro",
+    "iPhone 12 mini-1",
+    "iPhone 12 mini-2",
+    "iPad",
+    "iP15P-Ghost",
+    "iPhone12 Ghost"
+  ],
+  "summary": {
+    "events": [
+      "Siri/Shortcuts異常発火",
+      "bug_type=145,313 検出",
+      "大規模I/Oスパイク"
+    ],
+    "diff": {
+      "new": [
+        "iPad Shortcuts/Siri",
+        "bug_type=145",
+        "bug_type=313"
+      ],
+      "gone": []
+    },
+    "victim": [
+      {
+        "date_utc7": "2025-06-06 13:42:17",
+        "device": "iPad",
+        "event_type": "入力妨害",
+        "impact": "画面フリーズ",
+        "ref": "DIFF_events.csv(line5)"
+      },
+      {
+        "date_utc7": "2025-06-06 13:42:20",
+        "device": "iPad",
+        "event_type": "データ改ざん",
+        "impact": "保存中のファイル消失",
+        "ref": "DIFF_keywords.csv(line12)"
+      }
+    ]
+  },
+  "custody": {
+    "master_sha256": "(ZIPごとのハッシュ値)",
+    "storage": [
+      "SanDisk Extreme PRO A2 microSD",
+      "MEGA"
+    ]
+  }
+}

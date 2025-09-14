@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "talkroom": "KABUKI-INV — 2025-06-07 reanalysis",
+    "timezone": "UTC+7",
+    "exported_at": "2025-09-14T07:48:46+07:00",
+    "case_id": "KABUKI-INV",
+    "maintainer": "Tajima",
+    "reviewer": "GPT-5 Thinking"
+  },
+  "kpis": {
+    "events_total": null,
+    "diff_events_added": 0,
+    "diff_events_removed": 0,
+    "same_second_clusters": 0,
+    "flame_events_count": 0,
+    "human_records": 0
+  },
+  "same_second_clusters": [],
+  "anchors": {
+    "MyViettel_win60_path": "",
+    "MyViettel_win300_path": ""
+  },
+  "diff_summary": {
+    "events_added": 0,
+    "events_removed": 0
+  },
+  "flame": {
+    "events_count": 0,
+    "file": ""
+  },
+  "human_mapping": {
+    "records_count": 0,
+    "files": {
+      "impact": "",
+      "impact_enriched": "",
+      "join": "",
+      "gaps": "",
+      "pivot": "",
+      "timeline": ""
+    }
+  },
+  "stage_inventory": {
+    "stage1": {
+      "readme": "STAGE1_README_EN_JA.md",
+      "artifacts": []
+    },
+    "stage2": {
+      "readme": "STAGE2_README_EN_JA.md",
+      "artifacts": []
+    },
+    "stage3": {
+      "readme": "STAGE3_README_EN_JA.md",
+      "artifacts": []
+    },
+    "stage4": {
+      "readme": "STAGE4_README_EN_JA.md",
+      "artifacts": []
+    }
+  },
+  "file_hashes": {}
+}

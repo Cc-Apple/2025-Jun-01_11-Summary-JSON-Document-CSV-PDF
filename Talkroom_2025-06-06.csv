@@ -1,0 +1,3 @@
+﻿date_utc7,device,event_type,impact,ref
+2025-06-06 13:42:17,iPad,入力妨害,画面フリーズ,DIFF_events.csv(line5)
+2025-06-06 13:42:20,iPad,データ改ざん,保存中のファイル消失,DIFF_keywords.csv(line12)

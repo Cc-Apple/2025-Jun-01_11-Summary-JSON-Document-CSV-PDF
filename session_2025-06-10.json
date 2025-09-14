@@ -1,0 +1,22 @@
+{
+  "session_info": {
+    "case_id": "KABUKI-INV",
+    "room_scope": "2025-06-10 re-analysis only",
+    "timezone": "UTC+7",
+    "session_active": true
+  },
+  "facts": [
+    "Viettel証明書の痕跡が複数端末に存在",
+    "OCRでJetsamEvent-2025-06-10-184204.ips（177KB）の存在確認、ただし本体未収録"
+  ],
+  "gaps": [
+    {
+      "item": "JetsamEvent-2025-06-10-184204.ips",
+      "status": "missing_raw_log"
+    },
+    {
+      "item": "MDM/BlastDoor系ログ",
+      "status": "not_detected"
+    }
+  ]
+}

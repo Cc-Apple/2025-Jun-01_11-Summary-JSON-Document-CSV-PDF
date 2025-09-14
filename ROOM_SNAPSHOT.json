@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "case_id": "KABUKI-INV",
+    "maintainer": "Tajima",
+    "reviewer": "GPT-5",
+    "session_scope_date": "2025-06-11",
+    "timezone": "UTC+7",
+    "created_at": "2025-09-14T01:26:24.478803+00:00"
+  },
+  "devices": [
+    "iPhone 11 Pro",
+    "iPhone 12 mini-1",
+    "iPhone 12 mini-2",
+    "iPad",
+    "iPhone 15 Pro-Ghost",
+    "iPhone 12 Ghost"
+  ],
+  "artifacts_manifest_csv": "/mnt/data/KABUKI_INV_2025-06-11_EXPORT_ALL/ROOM_MANIFEST.csv",
+  "round1_dir": "/mnt/data/KABUKI_INV_2025-06-11_OUT",
+  "consolidated_dir": "/mnt/data/KABUKI_INV_2025-06-11_CONSOL_OUT",
+  "facts": [
+    "No MDM/profile artifacts detected (InstallConfigurationProfile/profileinstalld/mobileconfig).",
+    "Apple internal components observed: duetexpertd, triald, JetsamEvent, Backboardd, Suggestions.",
+    "Bug types around 6/11 included 202, 288, 309 in scanned materials.",
+    "MyViettel communications used GlobalSign-backed certificate (legitimate OV chain).",
+    "Microsoft-related strings (AAD, Defender) present in consolidated inputs.",
+    "No same-second/±60s/±5m cross-device temporal clusters found in this session.",
+    "Apple Support CSV produced no ±5m matches with the available event timestamps."
+  ],
+  "hypotheses": [
+    "CoreDuet/UI over-activity may indicate heightened behavioral collection; not proof of compromise.",
+    "Potential state-level misuse of external infrastructures (e.g., Microsoft) is suggestive, not conclusive.",
+    "Kabuki (Pegasus-evolved) may coordinate multi-device observation; insufficient evidence for confirmation."
+  ]
+}

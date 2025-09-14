@@ -1,0 +1,8 @@
+phase,type,content
+phase1,facts,MDM profile operations detected on iPad logs.
+phase1,facts,Abnormal SiriSearchFeedback bursts; CloudKit/nsurlsessiond activity.
+phase1,facts,bug_type 225/226 clusters detected.
+phase1,facts,Parallel MyViettel-App communication observed.
+phase2,facts,Consolidated ZIP lacked readable logs; many outputs empty.
+phase2,hypotheses,Tampering/obfuscation likely removed traces in ZIP.
+combined,conclusion,Pegasus → Kabuki evolution is dual: injection then concealment.
